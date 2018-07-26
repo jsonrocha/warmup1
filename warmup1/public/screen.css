@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 150px;
+  min-height: 100%;
+  background-color: #fe0000;
+  font: 16px / 1 sans-serif;
+}
+
+p {
+  color: #e7b409;
+  font-family: serif;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 65px;
+}
+
+.m30 {
+  margin-top: 50px;
+}
+
+.p2 {
+  font-size: 30px;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
